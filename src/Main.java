@@ -13,13 +13,13 @@ public class Main {
 
         greet(" Alex");
 
-        // Задача 3
+
         System.out.println(isNegative(-5));
 
-        // Задача 4
+
         checkNumberSign(42);
 
-        // Задача 5
+
         printMultiplesOfThree();
     }
 
