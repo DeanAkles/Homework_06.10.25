@@ -1,6 +1,6 @@
 
 public class Main {
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
         byte byteVar = 127;
         short shortVar = 32767;
